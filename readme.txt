@@ -1,3 +1,5 @@
+This model, data, and code are for the paper "A Comparative Study of Models for mRNA Subcellular Localization Prediction Using a Combined Dataset Benchmark" https://link.springer.com/chapter/10.1007/978-3-032-39382-1_16
+
 Don't forget download files from lfs:
 git lfs pull
 
