@@ -1,2 +1,4 @@
 test.sh
 predictions/*
+FExt/input/*
+FExt/features/*
